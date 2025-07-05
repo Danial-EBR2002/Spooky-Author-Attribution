@@ -74,7 +74,6 @@ Each data entry contains:
 ├── val.csv
 ├── test.csv
 ├── spooky_author.ipynb
-├── best_model.pt
 └── README.md
 ```
 
